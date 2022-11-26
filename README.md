@@ -1,4 +1,6 @@
 # Embedded_System_lab_3
+  week12 task : Password Check<br />
+  After receiving the password from the keypad, turn on the green LED if it matches the previously set password, and turn on the red LED for the rest.
 
 # Group A members : 
   12161427 김준혁<br />
